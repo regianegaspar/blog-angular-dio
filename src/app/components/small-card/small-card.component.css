@@ -1,0 +1,32 @@
+.container__small-card{
+    padding-top: 30px;
+
+}
+
+.container__small-card-content{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    width: 500px;
+}
+
+.small-card__photo img{
+    border-radius: 20px;
+    min-width: 200px;
+    width: 400px;
+}
+
+.small-card__title{
+    font-size: 14px;
+    text-align: center;
+}
+
+.small-card__title:hover{
+    text-shadow: 2px 1px 1px #3f406e;
+}
+
+.small-card__title a{
+    color: #272727;
+}

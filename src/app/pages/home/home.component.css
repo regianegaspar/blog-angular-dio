@@ -1,0 +1,20 @@
+.articles{
+    background-color: #cecece;
+    font-size: 25px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.articles h1{
+    font-size: 30px;
+}
+
+.articles__others{
+    
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
